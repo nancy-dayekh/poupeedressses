@@ -41,7 +41,7 @@ export default function Footer() {
     else setColors(data);
   }
 
-  if (!colors) return <div>Loading footer...</div>;
+  if (!colors) return <div></div>;
 
   return (
     <footer

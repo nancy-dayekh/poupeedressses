@@ -58,7 +58,6 @@ export default function Header() {
     <>
       <header
         className="fixed top-0 w-full z-50 shadow-md h-20"
-        style={{ backgroundColor: mainColor.button_hex }}
       >
         <div className="max-w-7xl mx-auto h-full flex justify-between items-center px-5">
           {/* MOBILE VIEW */}
